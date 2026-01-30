@@ -1,6 +1,0 @@
-{
-  "id": "simple-responder",
-  "name": "极简回复插件",
-  "description": "无论用户说什么，都只回复‘知道了’",
-  "version": "1.0.0"
-}
